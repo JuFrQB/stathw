@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset = "utf-8">
+<title>Juan Quinonez</Title>
+</head>
+<body>
+<table>
+<tr>
+<td> <a href = 'https:/stat.tamu.edu'> https://stat.tamu.edu </a> </td>
+<td><img width = 300 src = 'Juan.JPG'/></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li> I am a PhD student in Education </li>
+<li> I have a master's in Behavioral Neuroscience </li>
+</ul>
+</td>
+<td> </td>
+</tr>
+</table>
+</body>
+</html>
